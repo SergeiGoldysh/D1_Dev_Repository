@@ -88,6 +88,19 @@
           "A5": "a55dc8bd-cadd-4fc3-8797-dcf6873b8e0f",
           "S2": "23018567-a13c-4320-8687-fd6f9e3699bd",
           "E2": 1
+        },
+        {
+          "UId": "75c64e89-f2de-5433-78b1-cd5d2cb418cf",
+          "A2": "UsrContact",
+          "A3": "8798a4ae-8d81-43a9-acfb-d58404ca1622",
+          "A4": "8798a4ae-8d81-43a9-acfb-d58404ca1622",
+          "A5": "a55dc8bd-cadd-4fc3-8797-dcf6873b8e0f",
+          "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+          "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+          "E6": true,
+          "E20": true,
+          "E17": "UsrContactId",
+          "E18": "UsrContactName"
         }
       ],
       "D6": [],

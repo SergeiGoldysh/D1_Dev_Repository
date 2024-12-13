@@ -1,0 +1,47 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "25785df1-1f5c-469d-a37a-a499908b5e79"
+        },
+        {
+          "SchemaColumnUId": "03a27b75-6d7f-4be4-b0fd-f03ffd8a7aab",
+          "Value": "null",
+          "DisplayValue": ""
+        },
+        {
+          "SchemaColumnUId": "216b38f5-e2c3-462b-ae2e-1df80fc21b33",
+          "Value": "720b771c-e7a7-4f31-9cfb-52cd21c3739f",
+          "DisplayValue": "All external users"
+        },
+        {
+          "SchemaColumnUId": "3bb9d182-ad73-4379-9d51-2003c862a90c",
+          "Value": "Schema__Contacts_ListPage"
+        },
+        {
+          "SchemaColumnUId": "6851587b-0b7a-45cb-a5a5-31994420d81b",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "986fc9ee-72b2-4cc9-af5e-ed64af54d30f",
+          "Value": "eyJuYW1lIjoiNzIwQjc3MUMtRTdBNy00RjMxLTlDRkItNTJDRDIxQzM3MzlGIiwic2NoZW1hIjp7InZpZXdDb25maWdEaWZmIjpbeyJvcGVyYXRpb24iOiJtZXJnZSIsIm5hbWUiOiJEYXRhVGFibGUiLCJ2YWx1ZXMiOnsiX2Rlc2lnbk9wdGlvbnMiOnsiZGVzaWduU2V0dGluZ3MiOnsic29ydGluZyI6W10sImNvbHVtbnMiOlt7InZpZXdNb2RlbE1ldGFkYXRhIjp7ImF0dHJpYnV0ZU5hbWUiOiJQRFNfSWQifSwibW9kZWxNZXRhZGF0YSI6eyJuYW1lIjoiSWQiLCJwYXRoIjoiSWQifX0seyJ2aWV3TWV0YWRhdGEiOnsiaWQiOiJmMjUyZjU4MS0wY2NmLTQ0YWMtYjdjOS1jMDBkZjJhZDk5MTkiLCJjb2RlIjoiUERTX05hbWUiLCJjYXB0aW9uIjoiI1Jlc291cmNlU3RyaW5nKFBEU19OYW1lKSMiLCJkYXRhVmFsdWVUeXBlIjoxLCJzdGlja3kiOnRydWV9LCJtb2RlbE1ldGFkYXRhIjp7InR5cGUiOiJkZWZhdWx0IiwicGF0aCI6Ik5hbWUiLCJuYW1lIjoiTmFtZSJ9fSx7InZpZXdNZXRhZGF0YSI6eyJpZCI6IjQzODUwNWI4LTRhODctMGFjNi1kMWMzLTEzODI3ODA4MDZjYiIsImNvZGUiOiJQRFNfVHlwZSIsImNhcHRpb24iOiIjUmVzb3VyY2VTdHJpbmcoUERTX1R5cGUpIyIsImRhdGFWYWx1ZVR5cGUiOjEwLCJ3aWR0aCI6MTg2fSwibW9kZWxNZXRhZGF0YSI6eyJ0eXBlIjoiZGVmYXVsdCIsInBhdGgiOiJUeXBlIiwibmFtZSI6IlR5cGUifX0seyJ2aWV3TWV0YWRhdGEiOnsiaWQiOiIxM2NhZmY4ZS03MWJlLTBiYmEtZTdhNi1iY2MyNzE4MzAyNzQiLCJjb2RlIjoiUERTX0VtYWlsIiwiY2FwdGlvbiI6IiNSZXNvdXJjZVN0cmluZyhQRFNfRW1haWwpIyIsImRhdGFWYWx1ZVR5cGUiOjI4LCJ3aWR0aCI6MTYxfSwibW9kZWxNZXRhZGF0YSI6eyJ0eXBlIjoiZGVmYXVsdCIsInBhdGgiOiJFbWFpbCIsIm5hbWUiOiJFbWFpbCJ9fSx7InZpZXdNZXRhZGF0YSI6eyJpZCI6IjY5OWU4ZTYwLTM3ODUtYmFiNS03ZDM2LWVmYzUxMWRhODBlNCIsImNvZGUiOiJQRFNfQmlydGhEYXRlIiwiY2FwdGlvbiI6IiNSZXNvdXJjZVN0cmluZyhQRFNfQmlydGhEYXRlKSMiLCJkYXRhVmFsdWVUeXBlIjo4LCJ3aWR0aCI6MTI3fSwibW9kZWxNZXRhZGF0YSI6eyJ0eXBlIjoiZGVmYXVsdCIsInBhdGgiOiJCaXJ0aERhdGUiLCJuYW1lIjoiQmlydGhEYXRlIn19LHsidmlld01ldGFkYXRhIjp7ImlkIjoiYmE4OTU0NGItZWRhZS1lMzFlLWM5NGItMzA2MWI0NWJhZWQxIiwiY29kZSI6IlBEU19BZ2UiLCJjYXB0aW9uIjoiI1Jlc291cmNlU3RyaW5nKFBEU19BZ2UpIyIsImRhdGFWYWx1ZVR5cGUiOjR9LCJtb2RlbE1ldGFkYXRhIjp7InR5cGUiOiJkZWZhdWx0IiwibmFtZSI6IkFnZSIsInBhdGgiOiJBZ2UifX0seyJ2aWV3TWV0YWRhdGEiOnsiaWQiOiI0NGY4OGY4ZS1kMmQxLTJkMzMtYjU1ZS0xNTI0OTI2ZjE2MGQiLCJjb2RlIjoiUERTX1VzclZ3Q29udGFjdEFnZURheXNVc3JDb250YWN0VXNyQWdlRGF5c01heDQ1YzAzNzgzIiwiY2FwdGlvbiI6IiNSZXNvdXJjZVN0cmluZyhQRFNfVXNyVndDb250YWN0QWdlRGF5c1VzckNvbnRhY3RVc3JBZ2VEYXlzTWF4NDVjMDM3ODMpIyIsImRhdGFWYWx1ZVR5cGUiOjQsImNoYW5nZWQiOnRydWV9LCJtb2RlbE1ldGFkYXRhIjp7InR5cGUiOiJhZ2dyZWdhdGlvbiIsIm5hbWUiOiJVc3JWd0NvbnRhY3RBZ2VEYXlzVXNyQ29udGFjdFVzckFnZURheXMiLCJwYXRoIjoiW1VzclZ3Q29udGFjdEFnZURheXM6VXNyQ29udGFjdF0uVXNyQWdlRGF5cyIsImFnZ3JlZ2F0aW9uQ29uZmlnIjp7ImFnZ3JlZ2F0aW9uRnVuY3Rpb24iOiJNYXgiLCJmaWx0ZXIiOm51bGx9fX1dLCJyZXNvdXJjZXMiOnsibG9jYWxpemFibGVTdHJpbmdzIjp7IlBEU19Vc3JWd0NvbnRhY3RBZ2VEYXlzVXNyQ29udGFjdFVzckFnZURheXNNYXg0NWMwMzc4MyI6eyJydS1SVSI6ItCS0L7Qt9GA0LDRgdGCINCyINC00L3Rj9GFICJ9fX19fX19XSwibW9kZWxDb25maWdEaWZmIjpbXSwidmlld01vZGVsQ29uZmlnRGlmZiI6W119LCJsb2NhbGl6YWJsZUltYWdlcyI6e30sImxvY2FsaXphYmxlU3RyaW5ncyI6e319"
+        },
+        {
+          "SchemaColumnUId": "99d21524-ccad-45c1-998d-e9de6a6412af",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1734046737633+0600)\/"
+        },
+        {
+          "SchemaColumnUId": "fd26b95c-06ba-4595-915e-bc5657d10842",
+          "Value": "null",
+          "DisplayValue": ""
+        }
+      ]
+    }
+  ]
+}
